@@ -245,9 +245,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
+				AE4932A923C1887400121D2B /* MSIFanControl */,
 				5214FD9D230FF31800E33053 /* MSIFanService */,
 				AEF25A7923C866F500C9C29C /* MSIECControl */,
-				AE4932A923C1887400121D2B /* MSIFanControl */,
 			);
 		};
 /* End PBXProject section */
